@@ -1,2 +1,6 @@
 # TheDrop
-Dump file repository to exchange files
+Drop repository to exchange files
+
+No code 
+No comments
+
